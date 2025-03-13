@@ -19,9 +19,9 @@ This project uses an **Arduino Uno** and an **HC-SR04 ultrasonic sensor** to mea
 ## 📜 Usage  
 - Upload the provided code to your **Arduino Uno**.  
 - Connect the **HC-SR04** sensor to the appropriate pins:  
-  - **Trig → D9**  
-  - **Echo → D10**  
-- Connect the LEDs to digital pins (e.g., **D6 & D7**) via resistors.  
+  - **Trig → D7**  
+  - **Echo → D6**  
+- Connect the LEDs to digital pins (e.g., **D8 & D9**) via resistors.  
 - Power up the circuit using **USB or an external power supply**.  
 - Open the **Serial Monitor** to observe the real-time distance readings and LED behavior.  
 
