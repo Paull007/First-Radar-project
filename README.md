@@ -36,5 +36,9 @@ This project uses an **Arduino Uno** and an **HC-SR04 ultrasonic sensor** to mea
 
 
 
-https://github.com/user-attachments/assets/0f454828-4167-40cf-9d17-bcf5189860ca
+
+
+https://github.com/user-attachments/assets/2022d7c9-5125-4f21-b9e1-1cf7862aedcc
+
+
 
